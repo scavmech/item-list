@@ -309,7 +309,17 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "zombiepack",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "zombiehorde",
+		"price": 1500,
+		"karmatype": "Bad"
 	}
 	],
-	"total": 62
+	"total": 64
 }
