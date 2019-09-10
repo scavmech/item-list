@@ -1,8 +1,8 @@
 {
-	"items" : [ 
+	"items" : [
 	{
 		"abr": ".357special",
-		"price": 292,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Revolver"
 	},
@@ -92,37 +92,37 @@
 	},
 	{
 		"abr": "arasaka3-shot",
-		"price": 32750,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
 	{
 		"abr": "arasakafirelancerailgun",
-		"price": 33333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
 	},
 	{
 		"abr": "arasaka-umafstarburst",
-		"price": 8333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "ArchotechLeg"
 	},
@@ -194,7 +194,7 @@
 	},
 	{
 		"abr": "berettam1951",
-		"price": 250,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol"
 	},
@@ -212,25 +212,25 @@
 	},
 	{
 		"abr": "bionicear",
-		"price": 1308,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bionicheart",
-		"price": 1383,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "bionicspine",
-		"price": 1717,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionicstomach",
-		"price": 1308,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "BionicStomach"
 	},
@@ -494,7 +494,7 @@
 	},
 	{
 		"abr": "cyberopticimageenhancement",
-		"price": 1500,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "BionicEye"
 	},
@@ -530,13 +530,13 @@
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 2667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
 	{
 		"abr": "doublebarrelshotgun",
-		"price": 333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun"
 	},
@@ -554,7 +554,7 @@
 	},
 	{
 		"abr": "doverga-1112autogun",
-		"price": 1833,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Minigun"
 	},
@@ -794,7 +794,7 @@
 	},
 	{
 		"abr": "glitterworldmedicine",
-		"price": 83,
+		"price": -10,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
@@ -866,7 +866,7 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": 2167,
+		"price": -10,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
@@ -890,7 +890,7 @@
 	},
 	{
 		"abr": "heckler&kochpsg1",
-		"price": 1750,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_SniperRifle"
 	},
@@ -1058,7 +1058,7 @@
 	},
 	{
 		"abr": "intratectecdc-9",
-		"price": 292,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_HeavySMG"
 	},
@@ -1178,7 +1178,7 @@
 	},
 	{
 		"abr": "m16aassaultrifle",
-		"price": 1083,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle"
 	},
@@ -1220,7 +1220,7 @@
 	},
 	{
 		"abr": "medicine",
-		"price": 30,
+		"price": -10,
 		"category": "Medicine",
 		"defname": "MedicineIndustrial"
 	},
@@ -1268,7 +1268,7 @@
 	},
 	{
 		"abr": "militechm-77",
-		"price": 2625,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_LMG"
 	},
@@ -1514,19 +1514,19 @@
 	},
 	{
 		"abr": "prostheticarm",
-		"price": 408,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "prostheticheart",
-		"price": 358,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "SimpleProstheticHeart"
 	},
 	{
 		"abr": "prostheticleg",
-		"price": 408,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "SimpleProstheticLeg"
 	},
@@ -1622,7 +1622,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 2833,
+		"price": -10,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -1688,7 +1688,7 @@
 	},
 	{
 		"abr": "shotgat",
-		"price": 758,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChainShotgun"
 	},
@@ -1784,13 +1784,13 @@
 	},
 	{
 		"abr": "standardcyberarm",
-		"price": 5000,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "standardcyberleg",
-		"price": 3333,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "BionicLeg"
 	},
@@ -1850,7 +1850,7 @@
 	},
 	{
 		"abr": "t-9incendiarylauncher",
-		"price": 1050,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_IncendiaryLauncher"
 	},
@@ -2006,7 +2006,7 @@
 	},
 	{
 		"abr": "uzisubmachinegun",
-		"price": 417,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_MachinePistol"
 	},
@@ -2066,7 +2066,7 @@
 	},
 	{
 		"abr": "winchestermodel70",
-		"price": 417,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle"
 	},
