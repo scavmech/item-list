@@ -14,7 +14,7 @@
 	},
 	{
 		"abr": "advancedhelmet",
-		"price": 442,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_AdvancedHelmet"
 	},
@@ -26,13 +26,13 @@
 	},
 	{
 		"abr": "aimanager",
-		"price": 7833,
+		"price": -10,
 		"category": "Production",
 		"defname": "FM_AIManager"
 	},
 	{
 		"abr": "aipersonacore",
-		"price": 6667,
+		"price": -10,
 		"category": "Items",
 		"defname": "AIPersonaCore"
 	},
@@ -710,31 +710,31 @@
 	},
 	{
 		"abr": "flackvest",
-		"price": 375,
+		"price": -10,
 		"category": "Armour",
 		"defname": "Apparel_FlakVest"
 	},
 	{
 		"abr": "flakjacket",
-		"price": 483,
+		"price": -10,
 		"category": "Armour",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
 		"abr": "flakpants",
-		"price": 375,
+		"price": -10,
 		"category": "Armour",
 		"defname": "Apparel_FlakPants"
 	},
 	{
 		"abr": "flake",
-		"price": 23,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Flake"
 	},
 	{
 		"abr": "flatscreentelevision",
-		"price": 1533,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "FlatscreenTelevision"
 	},
@@ -1232,7 +1232,7 @@
 	},
 	{
 		"abr": "megascreentelevision",
-		"price": 2475,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "MegascreenTelevision"
 	},
@@ -1700,7 +1700,7 @@
 	},
 	{
 		"abr": "simplehelmet",
-		"price": 153,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_SimpleHelmet"
 	},
@@ -1970,7 +1970,7 @@
 	},
 	{
 		"abr": "tubetelevision",
-		"price": 525,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "TubeTelevision"
 	},
@@ -3752,13 +3752,13 @@
 	},
 	{
 		"abr": "combathelmet(art)",
-		"price": 5833,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Helm_Combat_Art"
 	},
 	{
 		"abr": "combathelmet(leg)",
-		"price": 11667,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Helm_Combat_Leg"
 	},
