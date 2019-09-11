@@ -1376,7 +1376,7 @@
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
@@ -3680,37 +3680,37 @@
 	},
 	{
 		"abr": "combatarmour(art)",
-		"price": 9167,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_BodyArmour_Combat_Art"
 	},
 	{
 		"abr": "combatarmour(leg)",
-		"price": 15000,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_BodyArmour_Combat_Leg"
 	},
 	{
 		"abr": "combatboots(art)",
-		"price": 5833,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Boots_Combat_Art"
 	},
 	{
 		"abr": "combatboots(leg)",
-		"price": 11667,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Boots_Combat_Leg"
 	},
 	{
 		"abr": "combatgloves(art)",
-		"price": 5833,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Gloves_Combat_Art"
 	},
 	{
 		"abr": "combatgloves(leg)",
-		"price": 11667,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Gloves_Combat_Leg"
 	},
@@ -3998,37 +3998,37 @@
 	},
 	{
 		"abr": "godking'sgauntlets(art)",
-		"price": 5167,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Gauntlets_Godking_Art"
 	},
 	{
 		"abr": "godking'sgauntlets(leg)",
-		"price": 11000,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Gauntlets_Godking_Leg"
 	},
 	{
 		"abr": "godking'smask(art)",
-		"price": 5167,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Helm_GodKingBlue_Art"
 	},
 	{
 		"abr": "godking'smask(leg)",
-		"price": 11000,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Helm_GodKingBlue_Leg"
 	},
 	{
 		"abr": "godking'splate(art)",
-		"price": 8333,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_BodyArmour_GodKingBlue_Art"
 	},
 	{
 		"abr": "godking'splate(leg)",
-		"price": 14167,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_BodyArmour_GodKingBlue_Leg"
 	},
@@ -4040,13 +4040,13 @@
 	},
 	{
 		"abr": "godking'sboots(art)",
-		"price": 5167,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Boots_Godking_Art"
 	},
 	{
 		"abr": "godking'sboots(leg)",
-		"price": 11000,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Boots_Godking_Leg"
 	},
@@ -4076,7 +4076,7 @@
 	},
 	{
 		"abr": "halberd(nan)",
-		"price": 6325,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Melee_Halberd_Nan"
 	},
@@ -4094,13 +4094,13 @@
 	},
 	{
 		"abr": "holyhandgrenadeofantioch(art)",
-		"price": 2000,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "MedTimes_Ranged_GrenadesAntioch"
 	},
 	{
 		"abr": "holyhandgrenadeofantioch(art)",
-		"price": 2000,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "MedTimes_Ranged_GrenadesAntioch_Dud"
 	},
@@ -4184,7 +4184,7 @@
 	},
 	{
 		"abr": "knight'sdagger(nan)",
-		"price": 6125,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Melee_DaggerKnight_Nan"
 	},
@@ -4214,7 +4214,7 @@
 	},
 	{
 		"abr": "longbow(nan)",
-		"price": 6033,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Ranged_Longbow_Nan"
 	},
@@ -4226,13 +4226,13 @@
 	},
 	{
 		"abr": "marksman'sbracers(art)",
-		"price": 5667,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Bracer_Marksman_Art"
 	},
 	{
 		"abr": "marksman'sbracers(leg)",
-		"price": 11500,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Bracer_Marksman_Leg"
 	},
@@ -4382,7 +4382,7 @@
 	},
 	{
 		"abr": "platedgloves(nan)",
-		"price": 5933,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Gloves_Plated_Nan"
 	},
@@ -4400,7 +4400,7 @@
 	},
 	{
 		"abr": "primitivespear(nan)",
-		"price": 5958,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Melee_PrimativeSpear_Nan"
 	},
@@ -4430,7 +4430,7 @@
 	},
 	{
 		"abr": "royaldeathplatearmour(nan)",
-		"price": 6342,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_RoyalPlated_Death_Nan"
 	},
@@ -4442,7 +4442,7 @@
 	},
 	{
 		"abr": "royalmask(nan)",
-		"price": 5983,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Helm_RoyalMask_Nan"
 	},
@@ -4454,7 +4454,7 @@
 	},
 	{
 		"abr": "royalplatedarmour(nan)",
-		"price": 6342,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_RoyalPlated_Nan"
 	},
@@ -4466,7 +4466,7 @@
 	},
 	{
 		"abr": "royalplatedarmourandcape(nan)",
-		"price": 6342,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_RoyalPlated_CapedBlue_Nan"
 	},
@@ -4478,7 +4478,7 @@
 	},
 	{
 		"abr": "royalplatedboots(nan)",
-		"price": 5975,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Boots_RoyalPlated_Nan"
 	},
@@ -4490,7 +4490,7 @@
 	},
 	{
 		"abr": "royalplatedgauntlets(nan)",
-		"price": 5983,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Gauntlets_RoyalPlated_Nan"
 	},
@@ -4502,13 +4502,13 @@
 	},
 	{
 		"abr": "rustywarknife(nan)",
-		"price": 6200,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Melee_WarKnife_Nan"
 	},
 	{
 		"abr": "saddle",
-		"price": 550,
+		"price": -10,
 		"category": "[Animal Apparel]",
 		"defname": "Apparel_Saddle"
 	},
@@ -4520,7 +4520,7 @@
 	},
 	{
 		"abr": "sallethelmet(nan)",
-		"price": 5975,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Helm_Sallet_Nan"
 	},
@@ -4538,7 +4538,7 @@
 	},
 	{
 		"abr": "scaledboots(nan)",
-		"price": 5975,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Boots_Scaled_Nan"
 	},
@@ -4550,7 +4550,7 @@
 	},
 	{
 		"abr": "scaledgloves(nan)",
-		"price": 5975,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Gloves_Scaled_Nan"
 	},
@@ -4562,7 +4562,7 @@
 	},
 	{
 		"abr": "scaledhauberk(nan)",
-		"price": 6250,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Hauberk_Nan"
 	},
@@ -4574,7 +4574,7 @@
 	},
 	{
 		"abr": "shortsword(nan)",
-		"price": 6133,
+		"price": -10,
 		"category": "Nanite",
 		"defname": "MedTimes_Melee_ShortSword_Nan"
 	},
@@ -4814,61 +4814,61 @@
 	},
 	{
 		"abr": "talentbreaker(art)",
-		"price": 5000,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Melee_ClubTalentBreaker_Art"
 	},
 	{
 		"abr": "talentbreaker(leg)",
-		"price": 10833,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Melee_ClubTalentBreaker_Leg"
 	},
 	{
 		"abr": "technoboots(art)",
-		"price": 7500,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Boots_Techno_Art"
 	},
 	{
 		"abr": "technoboots(leg)",
-		"price": 13333,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Boots_Techno_Leg"
 	},
 	{
 		"abr": "technogauntlets(art)",
-		"price": 7500,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Gauntlets_Techno_Art"
 	},
 	{
 		"abr": "technogauntlets(leg)",
-		"price": 13333,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Gauntlets_Techno_Leg"
 	},
 	{
 		"abr": "technosocks(art)",
-		"price": 1333,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Socks_Techno_Art"
 	},
 	{
 		"abr": "technosocks(leg)",
-		"price": 7167,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Socks_Techno_Leg"
 	},
 	{
 		"abr": "technosword(art)",
-		"price": 6667,
+		"price": -10,
 		"category": "Artifact",
 		"defname": "MedTimes_Melee_SwordTechno_Art"
 	},
 	{
 		"abr": "technosword(leg)",
-		"price": 12500,
+		"price": -10,
 		"category": "Legendary",
 		"defname": "MedTimes_Melee_SwordTechno_Leg"
 	},
