@@ -2275,12 +2275,6 @@
 		"defname": "BookOfSummoner"
 	},
 	{
-		"abr": "arcanescript:technomancy",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfMagitech"
-	},
-	{
 		"abr": "arcanespell:gateway",
 		"price": 4767,
 		"category": "Scrolls",
@@ -3187,34 +3181,10 @@
 		"defname": "TM_Syrrium"
 	},
 	{
-		"abr": "technomancerspell:kineticshield",
-		"price": 833,
-		"category": "Scrolls",
-		"defname": "SpellOf_TechnoShield"
-	},
-	{
 		"abr": "technomancerspell:mechanitereprogramming",
 		"price": 1417,
 		"category": "Scrolls",
 		"defname": "SpellOf_MechaniteReprogramming"
-	},
-	{
-		"abr": "technomancerspell:orbitalstrike",
-		"price": 2833,
-		"category": "Scrolls",
-		"defname": "SpellOf_OrbitalStrike"
-	},
-	{
-		"abr": "technomancerspell:overdrive",
-		"price": 800,
-		"category": "Scrolls",
-		"defname": "SpellOf_Overdrive"
-	},
-	{
-		"abr": "technomancerspell:sabotage",
-		"price": 667,
-		"category": "Scrolls",
-		"defname": "SpellOf_Sabotage"
 	},
 	{
 		"abr": "thrumbow",
@@ -3319,12 +3289,6 @@
 		"defname": "Torn_BookOfSummoner"
 	},
 	{
-		"abr": "tornscript:technomancy",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfMagitech"
-	},
-	{
 		"abr": "undeadmeat",
 		"price": 3,
 		"category": "Meat",
@@ -3422,25 +3386,25 @@
 	},
 	{
 		"abr": "fullmuffaloonrug",
-		"price": 842,
+		"price": -10,
 		"category": "Art",
 		"defname": "MedTimes_Rug_Muffalo"
 	},
 	{
 		"abr": "revengecat",
-		"price": 203,
+		"price": -10,
 		"category": "Art",
 		"defname": "MedTimes_RevengeCat"
 	},
 	{
 		"abr": "thegentleman",
-		"price": 203,
+		"price": -10,
 		"category": "Art",
 		"defname": "MedTimes_Gentleman"
 	},
 	{
 		"abr": "tribalsrug",
-		"price": 700,
+		"price": -10,
 		"category": "Art",
 		"defname": "MedTimes_Rug_Tribal"
 	},
