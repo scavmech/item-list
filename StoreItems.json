@@ -4507,12 +4507,6 @@
 		"defname": "MedTimes_Melee_WarKnife_Nan"
 	},
 	{
-		"abr": "saddle",
-		"price": -10,
-		"category": "[Animal Apparel]",
-		"defname": "Apparel_Saddle"
-	},
-	{
 		"abr": "sallethelmet",
 		"price": 138,
 		"category": "Armour",
@@ -5245,5 +5239,5 @@
 		"defname": "WoodFiredGenerator"
 	},
 	],
-	"total": 1127
+	"total": 1126
 }
