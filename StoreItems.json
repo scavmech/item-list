@@ -31,24 +31,6 @@
 		"defname": "AIPersonaCore"
 	},
 	{
-		"abr": "allosaurus",
-		"price": 4000,
-		"category": "Animal",
-		"defname": "Allosaurus"
-	},
-	{
-		"abr": "allosaurusegg(fert.)",
-		"price": 133,
-		"category": "Eggs (fert.)",
-		"defname": "EggAllosaurusFertilized"
-	},
-	{
-		"abr": "allosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Allosaurus"
-	},
-	{
 		"abr": "alpaca",
 		"price": 583,
 		"category": "Animal",
@@ -97,24 +79,6 @@
 		"defname": "AnimalSleepingBox"
 	},
 	{
-		"abr": "ankylosaurus",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "Ankylosaurus"
-	},
-	{
-		"abr": "ankylosaurusegg(fert.)",
-		"price": 67,
-		"category": "Eggs (fert.)",
-		"defname": "EggAnkylosaurusFertilized"
-	},
-	{
-		"abr": "ankylosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Ankylosaurus"
-	},
-	{
 		"abr": "antigrainwarhead",
 		"price": 2000,
 		"category": "Mortar shells",
@@ -157,12 +121,6 @@
 		"defname": "Armchair"
 	},
 	{
-		"abr": "armoreddinosaurhide",
-		"price": 17,
-		"category": "Leathers",
-		"defname": "Leather_ArmoredDino"
-	},
-	{
 		"abr": "assaultrifle",
 		"price": 800,
 		"category": "Ranged weapons",
@@ -173,24 +131,6 @@
 		"price": 232,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol"
-	},
-	{
-		"abr": "baryonyx",
-		"price": 3667,
-		"category": "Animal",
-		"defname": "Baryonyx"
-	},
-	{
-		"abr": "baryonyxegg(fert.)",
-		"price": 133,
-		"category": "Eggs (fert.)",
-		"defname": "EggBaryonyxFertilized"
-	},
-	{
-		"abr": "baryonyxmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Baryonyx"
 	},
 	{
 		"abr": "basicmanagerdesk",
@@ -313,12 +253,6 @@
 		"defname": "Leather_Bluefur"
 	},
 	{
-		"abr": "bluefuzz",
-		"price": 12,
-		"category": "Leathers",
-		"defname": "Leather_Bluefuzz"
-	},
-	{
 		"abr": "bolt-actionrifle",
 		"price": 425,
 		"category": "Ranged weapons",
@@ -355,46 +289,10 @@
 		"defname": "Apparel_BowlerHat"
 	},
 	{
-		"abr": "brachiosaurus",
-		"price": 5833,
-		"category": "Animal",
-		"defname": "Brachiosaurus"
-	},
-	{
-		"abr": "brachiosaurusegg(fert.)",
-		"price": 83,
-		"category": "Eggs (fert.)",
-		"defname": "EggBrachiosaurusFertilized"
-	},
-	{
-		"abr": "brachiosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Brachiosaurus"
-	},
-	{
 		"abr": "brewery",
 		"price": 350,
 		"category": "Production",
 		"defname": "Brewery"
-	},
-	{
-		"abr": "brontosaurus",
-		"price": 5833,
-		"category": "Animal",
-		"defname": "Brontosaurus"
-	},
-	{
-		"abr": "brontosaurusegg(fert.)",
-		"price": 83,
-		"category": "Eggs (fert.)",
-		"defname": "EggBrontosaurusFertilized"
-	},
-	{
-		"abr": "brontosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Brontosaurus"
 	},
 	{
 		"abr": "butchertable",
@@ -443,24 +341,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Caribou"
-	},
-	{
-		"abr": "carnotaurus",
-		"price": 4000,
-		"category": "Animal",
-		"defname": "Carnotaurus"
-	},
-	{
-		"abr": "carnotaurusegg(fert.)",
-		"price": 133,
-		"category": "Eggs (fert.)",
-		"defname": "EggCarnotaurusFertilized"
-	},
-	{
-		"abr": "carnotaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Carnotaurus"
 	},
 	{
 		"abr": "cassowary",
@@ -607,46 +487,10 @@
 		"defname": "ComponentIndustrial"
 	},
 	{
-		"abr": "compsognathus",
-		"price": 1250,
-		"category": "Animal",
-		"defname": "Compsognathus"
-	},
-	{
-		"abr": "compsognathusegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggCompsognathusFertilized"
-	},
-	{
-		"abr": "compsognathusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Compsognathus"
-	},
-	{
 		"abr": "corn",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawCorn"
-	},
-	{
-		"abr": "corythosaurus",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Corythosaurus"
-	},
-	{
-		"abr": "corythosaurusegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggCorythosaurusFertilized"
-	},
-	{
-		"abr": "corythosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Corythosaurus"
 	},
 	{
 		"abr": "cougar",
@@ -673,24 +517,6 @@
 		"defname": "Apparel_CowboyHat"
 	},
 	{
-		"abr": "dakotaraptor",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "Dakotaraptor"
-	},
-	{
-		"abr": "dakotaraptoregg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggDakotaraptorFertilized"
-	},
-	{
-		"abr": "dakotaraptormeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Dakotaraptor"
-	},
-	{
 		"abr": "deepdrill",
 		"price": 908,
 		"category": "Production",
@@ -703,88 +529,16 @@
 		"defname": "Deer"
 	},
 	{
-		"abr": "deinocheirus",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Deinocheirus"
-	},
-	{
-		"abr": "deinocheirusegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggDeinocheirusFertilized"
-	},
-	{
-		"abr": "deinocheirusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Deinocheirus"
-	},
-	{
 		"abr": "devilstrand",
 		"price": 9,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth"
 	},
 	{
-		"abr": "dilophosaurus",
-		"price": 2833,
-		"category": "Animal",
-		"defname": "Dilophosaurus"
-	},
-	{
-		"abr": "dilophosaurusegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggDilophosaurusFertilized"
-	},
-	{
-		"abr": "dilophosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Dilophosaurus"
-	},
-	{
 		"abr": "diningchair",
 		"price": 198,
 		"category": "Furniture",
 		"defname": "DiningChair"
-	},
-	{
-		"abr": "dinosaurfuzz",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_DinosaurFuzz"
-	},
-	{
-		"abr": "dinosaurhide",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_DinosaurHide"
-	},
-	{
-		"abr": "dinosaurskin",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_DinosaurSkin"
-	},
-	{
-		"abr": "diplodocus",
-		"price": 5833,
-		"category": "Animal",
-		"defname": "Diplodocus"
-	},
-	{
-		"abr": "diplodocusegg(fert.)",
-		"price": 83,
-		"category": "Eggs (fert.)",
-		"defname": "EggDiplodocusFertilized"
-	},
-	{
-		"abr": "diplodocusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Diplodocus"
 	},
 	{
 		"abr": "dogleather",
@@ -833,30 +587,6 @@
 		"price": 742,
 		"category": "Production",
 		"defname": "DrugLab"
-	},
-	{
-		"abr": "dryosaurus",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Dryosaurus"
-	},
-	{
-		"abr": "dryosaurusegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggDryosaurusFertilized"
-	},
-	{
-		"abr": "dryosaurusegg(unfert.)",
-		"price": 17,
-		"category": "Eggs (unfert.)",
-		"defname": "EggDryosaurusUnfertilized"
-	},
-	{
-		"abr": "dryosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Dryosaurus"
 	},
 	{
 		"abr": "duster",
@@ -1045,24 +775,6 @@
 		"defname": "FueledStove"
 	},
 	{
-		"abr": "gallimimus",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Gallimimus"
-	},
-	{
-		"abr": "gallimimusegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggGallimimusFertilized"
-	},
-	{
-		"abr": "gallimimusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Gallimimus"
-	},
-	{
 		"abr": "game-of-urboard",
 		"price": 153,
 		"category": "Furniture",
@@ -1079,24 +791,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Gazelle"
-	},
-	{
-		"abr": "gigantoraptor",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Gigantoraptor"
-	},
-	{
-		"abr": "gigantoraptoregg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggGigantoraptorFertilized"
-	},
-	{
-		"abr": "gigantoraptormeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Gigantoraptor"
 	},
 	{
 		"abr": "gladius",
@@ -1339,24 +1033,6 @@
 		"defname": "Meat_Iguana"
 	},
 	{
-		"abr": "iguanodon",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Iguanodon"
-	},
-	{
-		"abr": "iguanodonegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggIguanodonFertilized"
-	},
-	{
-		"abr": "iguanodonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Iguanodon"
-	},
-	{
 		"abr": "ikwa",
 		"price": 197,
 		"category": "Melee weapons",
@@ -1531,24 +1207,6 @@
 		"defname": "TableMachining"
 	},
 	{
-		"abr": "magyarosaurus",
-		"price": 2833,
-		"category": "Animal",
-		"defname": "Magyarosaurus"
-	},
-	{
-		"abr": "magyarosaurusegg(fert.)",
-		"price": 33,
-		"category": "Eggs (fert.)",
-		"defname": "EggMagyarosaurusFertilized"
-	},
-	{
-		"abr": "magyarosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Magyarosaurus"
-	},
-	{
 		"abr": "managerdesk",
 		"price": 508,
 		"category": "Production",
@@ -1631,24 +1289,6 @@
 		"price": 508,
 		"category": "Security",
 		"defname": "Turret_MiniTurret"
-	},
-	{
-		"abr": "minmi",
-		"price": 1167,
-		"category": "Animal",
-		"defname": "Minmi"
-	},
-	{
-		"abr": "minmiegg(fert.)",
-		"price": 67,
-		"category": "Eggs (fert.)",
-		"defname": "EggMinmiFertilized"
-	},
-	{
-		"abr": "minmimeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Minmi"
 	},
 	{
 		"abr": "molotovcocktails",
@@ -1747,24 +1387,6 @@
 		"defname": "EggOstrichFertilized"
 	},
 	{
-		"abr": "pachycephalosaurus",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Pachycephalosaurus"
-	},
-	{
-		"abr": "pachycephalosaurusegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggPachycephalosaurusFertilized"
-	},
-	{
-		"abr": "pachycephalosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Pachycephalosaurus"
-	},
-	{
 		"abr": "packagedsurvivalmeal",
 		"price": 40,
 		"category": "Meals",
@@ -1799,24 +1421,6 @@
 		"price": 143,
 		"category": "Apparel",
 		"defname": "Apparel_Pants"
-	},
-	{
-		"abr": "parasaur",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Parasaur"
-	},
-	{
-		"abr": "parasauregg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggParasaurFertilized"
-	},
-	{
-		"abr": "parasaurmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Parasaur"
 	},
 	{
 		"abr": "parka",
@@ -1933,24 +1537,6 @@
 		"defname": "SimpleProstheticLeg"
 	},
 	{
-		"abr": "protoceratops",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Protoceratops"
-	},
-	{
-		"abr": "protoceratopsegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggProtoceratopsFertilized"
-	},
-	{
-		"abr": "protoceratopsmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Protoceratops"
-	},
-	{
 		"abr": "psychicanimalpulser",
 		"price": 1167,
 		"category": "Artifacts",
@@ -1999,58 +1585,10 @@
 		"defname": "PsychoidLeaves"
 	},
 	{
-		"abr": "pteranodon",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Pteranodon"
-	},
-	{
-		"abr": "pteranodonegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggPteranodonFertilized"
-	},
-	{
-		"abr": "pteranodonegg(unfert.)",
-		"price": 17,
-		"category": "Eggs (unfert.)",
-		"defname": "EggPteranodonUnfertilized"
-	},
-	{
-		"abr": "pteranodonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Pteranodon"
-	},
-	{
-		"abr": "pterosaurskin",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_PterosaurSkin"
-	},
-	{
 		"abr": "pumpshotgun",
 		"price": 425,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun"
-	},
-	{
-		"abr": "quetzalcoatlus",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Quetzalcoatlus"
-	},
-	{
-		"abr": "quetzalcoatlusegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggQuetzalcoatlusFertilized"
-	},
-	{
-		"abr": "quetzalcoatlusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Quetzalcoatlus"
 	},
 	{
 		"abr": "raccoon",
@@ -2063,12 +1601,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Raccoon"
-	},
-	{
-		"abr": "raptorleather",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_Raptor"
 	},
 	{
 		"abr": "rat",
@@ -2099,12 +1631,6 @@
 		"price": 333,
 		"category": "Animal",
 		"defname": "Fox_Red"
-	},
-	{
-		"abr": "redhide",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "Leather_Redhide"
 	},
 	{
 		"abr": "resurrectormechserum",
@@ -2153,12 +1679,6 @@
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone"
-	},
-	{
-		"abr": "sauropodleather",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_Sauropod"
 	},
 	{
 		"abr": "sculptor'stable",
@@ -2269,30 +1789,6 @@
 		"defname": "TrapSpike"
 	},
 	{
-		"abr": "spinosaurus",
-		"price": 4667,
-		"category": "Animal",
-		"defname": "Spinosaurus"
-	},
-	{
-		"abr": "spinosaurusegg(fert.)",
-		"price": 133,
-		"category": "Eggs (fert.)",
-		"defname": "EggSpinosaurusFertilized"
-	},
-	{
-		"abr": "spinosaurusleather",
-		"price": 13,
-		"category": "Leathers",
-		"defname": "Leather_Spinosaurus"
-	},
-	{
-		"abr": "spinosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Spinosaurus"
-	},
-	{
 		"abr": "squirrel",
 		"price": 58,
 		"category": "Animal",
@@ -2335,24 +1831,6 @@
 		"defname": "Steel"
 	},
 	{
-		"abr": "stegosaurus",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "Stegosaurus"
-	},
-	{
-		"abr": "stegosaurusegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggStegosaurusFertilized"
-	},
-	{
-		"abr": "stegosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Stegosaurus"
-	},
-	{
 		"abr": "stonecutter'stable",
 		"price": 358,
 		"category": "Production",
@@ -2363,24 +1841,6 @@
 		"price": 86,
 		"category": "Furniture",
 		"defname": "Stool"
-	},
-	{
-		"abr": "stygimoloch",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Stygimoloch"
-	},
-	{
-		"abr": "stygimolochegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggStygimolochFertilized"
-	},
-	{
-		"abr": "stygimolochmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Stygimoloch"
 	},
 	{
 		"abr": "sunlamp",
@@ -2429,30 +1889,6 @@
 		"price": 583,
 		"category": "Recreation",
 		"defname": "Telescope"
-	},
-	{
-		"abr": "therizinosaurus",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Therizinosaurus"
-	},
-	{
-		"abr": "therizinosaurusegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggTherizinosaurusFertilized"
-	},
-	{
-		"abr": "therizinosaurusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Therizinosaurus"
-	},
-	{
-		"abr": "theropodleather",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_Theropod"
 	},
 	{
 		"abr": "thrumbo",
@@ -2527,30 +1963,6 @@
 		"defname": "Apparel_TribalA"
 	},
 	{
-		"abr": "triceratops",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "Triceratops"
-	},
-	{
-		"abr": "triceratopsegg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggTriceratopsFertilized"
-	},
-	{
-		"abr": "triceratopshorn",
-		"price": 1917,
-		"category": "Items",
-		"defname": "TriceratopsHorn"
-	},
-	{
-		"abr": "triceratopsmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Triceratops"
-	},
-	{
 		"abr": "triplerocketlauncher",
 		"price": 1667,
 		"category": "Ranged weapons",
@@ -2593,82 +2005,16 @@
 		"defname": "Meat_Turkey"
 	},
 	{
-		"abr": "tyrannosaurusleather",
-		"price": 13,
-		"category": "Leathers",
-		"defname": "Leather_Tyrannosaurus"
-	},
-	{
-		"abr": "tyrannosaurusrex",
-		"price": 6000,
-		"category": "Animal",
-		"defname": "TyrannosaurusRex"
-	},
-	{
-		"abr": "tyrannosaurusrexegg(fert.)",
-		"price": 233,
-		"category": "Eggs (fert.)",
-		"defname": "EggTyrannosaurusRexFertilized"
-	},
-	{
-		"abr": "tyrannosaurusrexmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_TyrannosaurusRex"
-	},
-	{
-		"abr": "tyrannosaurusrexskull",
-		"price": 2500,
-		"category": "Items",
-		"defname": "TyrannosaurusRexSkull"
-	},
-	{
 		"abr": "uranium",
 		"price": 10,
 		"category": "Raw resources",
 		"defname": "Uranium"
 	},
 	{
-		"abr": "utahraptor",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "Utahraptor"
-	},
-	{
-		"abr": "utahraptoregg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggUtahraptorFertilized"
-	},
-	{
-		"abr": "utahraptormeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Utahraptor"
-	},
-	{
 		"abr": "vanometricpowercell",
 		"price": 2000,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
-	},
-	{
-		"abr": "velociraptor",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "Velociraptor"
-	},
-	{
-		"abr": "velociraptoregg(fert.)",
-		"price": 50,
-		"category": "Eggs (fert.)",
-		"defname": "EggVelociraptorFertilized"
-	},
-	{
-		"abr": "velociraptormeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Velociraptor"
 	},
 	{
 		"abr": "venison",
@@ -2761,23 +2107,191 @@
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
-		"abr": "yutyrannus",
-		"price": 4500,
+		"abr": "animalprostheticstable",
+		"price": 367,
+		"category": "Production",
+		"defname": "TableAnimalProsthetics"
+	},
+	{
+		"abr": "bionicanimalarm",
+		"price": 892,
+		"category": "Animal Body Part",
+		"defname": "BionicArmAnimal"
+	},
+	{
+		"abr": "bionicanimalbrainstimulator",
+		"price": 1508,
+		"category": "Animal Body Part",
+		"defname": "AnimalBrainStimulator"
+	},
+	{
+		"abr": "bionicanimalearimplant",
+		"price": 867,
+		"category": "Animal Body Part",
+		"defname": "EarAnimalBionic"
+	},
+	{
+		"abr": "bionicanimaleye",
+		"price": 867,
+		"category": "Animal Body Part",
+		"defname": "BionicEyeAnimal"
+	},
+	{
+		"abr": "bionicanimalheart",
+		"price": 667,
+		"category": "Animal Body Part",
+		"defname": "BionicAnimalHeart"
+	},
+	{
+		"abr": "bionicanimaljaw",
+		"price": 867,
+		"category": "Animal Body Part",
+		"defname": "JawAnimalBionic"
+	},
+	{
+		"abr": "bionicanimalkidney",
+		"price": 483,
+		"category": "Animal Body Part",
+		"defname": "BionicAnimalKidney"
+	},
+	{
+		"abr": "bionicanimalleg",
+		"price": 892,
+		"category": "Animal Body Part",
+		"defname": "BionicLegAnimal"
+	},
+	{
+		"abr": "bionicanimalliver",
+		"price": 483,
+		"category": "Animal Body Part",
+		"defname": "BionicAnimalLiver"
+	},
+	{
+		"abr": "bionicanimallung",
+		"price": 483,
+		"category": "Animal Body Part",
+		"defname": "BionicAnimalLung"
+	},
+	{
+		"abr": "bionicanimalspine",
+		"price": 1050,
+		"category": "Animal Body Part",
+		"defname": "SpineAnimalBionic"
+	},
+	{
+		"abr": "bionicanimalstomach",
+		"price": 492,
+		"category": "Animal Body Part",
+		"defname": "BionicAnimalStomach"
+	},
+	{
+		"abr": "simpleanimalearimplant",
+		"price": 121,
+		"category": "Animal Body Part",
+		"defname": "EarAnimalSimple"
+	},
+	{
+		"abr": "simpleanimaljawimplant",
+		"price": 121,
+		"category": "Animal Body Part",
+		"defname": "JawAnimalSimple"
+	},
+	{
+		"abr": "simpleanimalnose",
+		"price": 121,
+		"category": "Animal Body Part",
+		"defname": "NoseAnimalSimple"
+	},
+	{
+		"abr": "simpleanimalspine",
+		"price": 202,
+		"category": "Animal Body Part",
+		"defname": "SpineAnimalSimple"
+	},
+	{
+		"abr": "simpleprostheticanimalarm",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "SimpleProstheticArmAnimal"
+	},
+	{
+		"abr": "simpleprostheticanimalleg",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "SimpleProstheticLegAnimal"
+	},
+	{
+		"abr": "simpleprostheticanimaltail",
+		"price": 112,
+		"category": "Animal Body Part",
+		"defname": "ProstheticTailAnimal"
+	},
+	{
+		"abr": "youthserum",
+		"price": 2333,
+		"category": "Items",
+		"defname": "MechSerumYouth"
+	},
+	{
+		"abr": "blackhorse",
+		"price": 1333,
 		"category": "Animal",
-		"defname": "Yutyrannus"
+		"defname": "BlackHorse"
 	},
 	{
-		"abr": "yutyrannusegg(fert.)",
-		"price": 200,
-		"category": "Eggs (fert.)",
-		"defname": "EggYutyrannusFertilized"
+		"abr": "horsearmor",
+		"price": 1183,
+		"category": "Headgear",
+		"defname": "Apparel_HorseArmor"
 	},
 	{
-		"abr": "yutyrannusmeat",
+		"abr": "horsemeat",
 		"price": 3,
 		"category": "Meat",
-		"defname": "Meat_Yutyrannus"
+		"defname": "Meat_QuarterHorse"
+	},
+	{
+		"abr": "horsemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BlackHorse"
+	},
+	{
+		"abr": "horsemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_WhiteHorse"
+	},
+	{
+		"abr": "horsemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Palomino"
+	},
+	{
+		"abr": "palomino",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "Palomino"
+	},
+	{
+		"abr": "quarterhorse",
+		"price": 667,
+		"category": "Animal",
+		"defname": "QuarterHorse"
+	},
+	{
+		"abr": "saddle",
+		"price": 550,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_Saddle"
+	},
+	{
+		"abr": "whitehorse",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "WhiteHorse"
 	}
 	],
-	"total": 463
+	"total": 494
 }
