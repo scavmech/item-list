@@ -13,7 +13,7 @@
 	{
 		"abr": "clearweather",
 		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rain",
@@ -99,6 +99,11 @@
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "refugeechased",
+		"price": 650,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "animaltame",
@@ -273,7 +278,7 @@
 	{
 		"abr": "trait",
 		"price": 3500,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
@@ -354,11 +359,6 @@
 		"abr": "peacetalks",
 		"price": 1000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "piratecamp",
-		"price": 1000,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "bumpercrops",
