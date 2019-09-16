@@ -2227,12 +2227,6 @@
 		"defname": "ProstheticTailAnimal"
 	},
 	{
-		"abr": "youthserum",
-		"price": 2333,
-		"category": "Items",
-		"defname": "MechSerumYouth"
-	},
-	{
 		"abr": "blackhorse",
 		"price": 1333,
 		"category": "Animal",
@@ -2291,7 +2285,133 @@
 		"price": 1333,
 		"category": "Animal",
 		"defname": "WhiteHorse"
+	},
+	{
+		"abr": "animaladvancedhelmet",
+		"price": 442,
+		"category": "Headgear",
+		"defname": "Apparel_AnimalAdvancedHelmet"
+	},
+	{
+		"abr": "animalclothes",
+		"price": 166,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_AnimalClothes"
+	},
+	{
+		"abr": "animalflakarmor",
+		"price": 858,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_AnimalFlakArmor"
+	},
+	{
+		"abr": "animalplatearmor",
+		"price": 792,
+		"category": "Headgear",
+		"defname": "Apparel_AnimalPlateArmor"
+	},
+	{
+		"abr": "animalsimplehelmet",
+		"price": 153,
+		"category": "Headgear",
+		"defname": "Apparel_AnimalPlateHelmet"
+	},
+	{
+		"abr": "beararmor",
+		"price": 1442,
+		"category": "Headgear",
+		"defname": "Apparel_BearArmor"
+	},
+	{
+		"abr": "bridle",
+		"price": 290,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_bridle"
+	},
+	{
+		"abr": "catarmor",
+		"price": 442,
+		"category": "Headgear",
+		"defname": "Apparel_CatArmor"
+	},
+	{
+		"abr": "catofpreyarmor",
+		"price": 617,
+		"category": "Headgear",
+		"defname": "Apparel_CatOfPreyArmor"
+	},
+	{
+		"abr": "dogarmorvest",
+		"price": 558,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_DogArmorVest"
+	},
+	{
+		"abr": "doggambeson",
+		"price": 400,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_DogGambeson"
+	},
+	{
+		"abr": "dogscarf",
+		"price": 83,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_DogScarf"
+	},
+	{
+		"abr": "foxbandana",
+		"price": 83,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_FoxBandana"
+	},
+	{
+		"abr": "foxbandanared",
+		"price": 83,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_FoxBandanaRed"
+	},
+	{
+		"abr": "howdah",
+		"price": 650,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_Howdah"
+	},
+	{
+		"abr": "petscarf",
+		"price": 83,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_AnimalScarf"
+	},
+	{
+		"abr": "thrumboarmor",
+		"price": 2225,
+		"category": "Headgear",
+		"defname": "Apparel_ThrumboArmor"
+	},
+	{
+		"abr": "thrumbogear",
+		"price": 290,
+		"category": "Headgear",
+		"defname": "Apparel_ThrumboGear"
+	},
+	{
+		"abr": "wargarmor",
+		"price": 792,
+		"category": "Headgear",
+		"defname": "Apparel_WargArmor"
+	},
+	{
+		"abr": "wildboararmor",
+		"price": 625,
+		"category": "Headgear",
+		"defname": "Apparel_BoarArmor"
+	},
+	{
+		"abr": "wolfarmor",
+		"price": 850,
+		"category": "Headgear",
+		"defname": "Apparel_WolfArmor"
 	}
 	],
-	"total": 494
+	"total": 515
 }
