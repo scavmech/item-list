@@ -148,7 +148,7 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -163,12 +163,12 @@
 	{
 		"abr": "travelergroup",
 		"price": 80,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "visitorgroup",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "skillincrease",
@@ -198,7 +198,7 @@
 	{
 		"abr": "militaryaid",
 		"price": 700,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "raid",
