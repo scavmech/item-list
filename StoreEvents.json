@@ -13,7 +13,7 @@
 	{
 		"abr": "clearweather",
 		"price": 400,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "rain",
@@ -66,11 +66,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
@@ -99,11 +94,6 @@
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "animaltame",
@@ -321,60 +311,15 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reversetraderequest",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "woundedcombatants",
+		"abr": "zombiepack",
 		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "pirateextortion",
-		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "roadworks",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "diplomaticmarriage",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "mysticalshaman",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "annualexpo",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "peacetalks",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "bumpercrops",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hunterslodge",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "baseattack",
-		"price": 1000,
-		"karmatype": "Neutral"
+		"abr": "zombiehorde",
+		"price": 1500,
+		"karmatype": "Bad"
 	}
 	],
-	"total": 75
+	"total": 64
 }
