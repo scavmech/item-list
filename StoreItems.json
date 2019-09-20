@@ -2090,331 +2090,331 @@
 	},
 	{
 		"abr": "zombie",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Zombie"
 	},
 	{
 		"abr": "zombiealpaca",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieAlpaca"
 	},
 	{
 		"abr": "zombiealphabeaver",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieAlphabeaver"
 	},
 	{
 		"abr": "zombiebear_grizzly",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieBear_Grizzly"
 	},
 	{
 		"abr": "zombiebear_polar",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieBear_Polar"
 	},
 	{
 		"abr": "zombieboomalope",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieBoomalope"
 	},
 	{
 		"abr": "zombieboomrat",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieBoomrat"
 	},
 	{
 		"abr": "zombiecapybara",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieCapybara"
 	},
 	{
 		"abr": "zombiecaribou",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieCaribou"
 	},
 	{
 		"abr": "zombiecassowary",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieCassowary"
 	},
 	{
 		"abr": "zombiecat",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieCat"
 	},
 	{
 		"abr": "zombiechicken",
-		"price": 83,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieChicken"
 	},
 	{
 		"abr": "zombiechinchilla",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieChinchilla"
 	},
 	{
 		"abr": "zombiecobra",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieCobra"
 	},
 	{
 		"abr": "zombiecougar",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieCougar"
 	},
 	{
 		"abr": "zombiecow",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieCow"
 	},
 	{
 		"abr": "zombiedeer",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieDeer"
 	},
 	{
 		"abr": "zombiedromedary",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieDromedary"
 	},
 	{
 		"abr": "zombieelephant",
-		"price": 1000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieElephant"
 	},
 	{
 		"abr": "zombieelk",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieElk"
 	},
 	{
 		"abr": "zombieemu",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieEmu"
 	},
 	{
 		"abr": "zombiefox_arctic",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieFox_Arctic"
 	},
 	{
 		"abr": "zombiefox_fennec",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieFox_Fennec"
 	},
 	{
 		"abr": "zombiefox_red",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieFox_Red"
 	},
 	{
 		"abr": "zombiegazelle",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieGazelle"
 	},
 	{
 		"abr": "zombiehare",
-		"price": 83,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieHare"
 	},
 	{
 		"abr": "zombiehusky",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieHusky"
 	},
 	{
 		"abr": "zombieibex",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieIbex"
 	},
 	{
 		"abr": "zombieiguana",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieIguana"
 	},
 	{
 		"abr": "zombielabradorretriever",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieLabradorRetriever"
 	},
 	{
 		"abr": "zombieleather",
-		"price": 2,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Zombie"
 	},
 	{
 		"abr": "zombielynx",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieLynx"
 	},
 	{
 		"abr": "zombiemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Zombie"
 	},
 	{
 		"abr": "zombiemegascarab",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieMegascarab"
 	},
 	{
 		"abr": "zombiemegasloth",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieMegasloth"
 	},
 	{
 		"abr": "zombiemegaspider",
-		"price": 833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieMegaspider"
 	},
 	{
 		"abr": "zombiemonkey",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieMonkey"
 	},
 	{
 		"abr": "zombiemuffalo",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieMuffalo"
 	},
 	{
 		"abr": "zombieostrich",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieOstrich"
 	},
 	{
 		"abr": "zombiepanther",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombiePanther"
 	},
 	{
 		"abr": "zombiepig",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombiePig"
 	},
 	{
 		"abr": "zombieraccoon",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieRaccoon"
 	},
 	{
 		"abr": "zombierat",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieRat"
 	},
 	{
 		"abr": "zombierhinoceros",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieRhinoceros"
 	},
 	{
 		"abr": "zombiesnowhare",
-		"price": 83,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieSnowhare"
 	},
 	{
 		"abr": "zombiespelopede",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieSpelopede"
 	},
 	{
 		"abr": "zombiesquirrel",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieSquirrel"
 	},
 	{
 		"abr": "zombiethrumbo",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieThrumbo"
 	},
 	{
 		"abr": "zombietortoise",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieTortoise"
 	},
 	{
 		"abr": "zombieturkey",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieTurkey"
 	},
 	{
 		"abr": "zombiewarg",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieWarg"
 	},
 	{
 		"abr": "zombiewildboar",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieWildBoar"
 	},
 	{
 		"abr": "zombiewolf_arctic",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieWolf_Arctic"
 	},
 	{
 		"abr": "zombiewolf_timber",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieWolf_Timber"
 	},
 	{
 		"abr": "zombieyorkshireterrier",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZombieYorkshireTerrier"
 	}
