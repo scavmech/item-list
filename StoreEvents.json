@@ -96,6 +96,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "refugeechased",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
@@ -103,6 +108,11 @@
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "transportpodcrash",
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -148,7 +158,7 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Bad"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -199,11 +209,6 @@
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "randomdisease",
@@ -268,13 +273,13 @@
 	{
 		"abr": "torytalkervote",
 		"price": 750,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "hodlbotvote",
 		"price": 600,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	}
 	],
-	"total": 55
+	"total": 56
 }
