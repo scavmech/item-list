@@ -138,7 +138,7 @@
 	{
 		"abr": "ambrosiasprout",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "herdmigration",
@@ -163,12 +163,12 @@
 	{
 		"abr": "travelergroup",
 		"price": 80,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "visitorgroup",
 		"price": 200,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "skillincrease",
@@ -198,46 +198,11 @@
 	{
 		"abr": "militaryaid",
 		"price": 700,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "predators",
-		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -309,17 +274,7 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "zombiepack",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "zombiehorde",
-		"price": 1500,
-		"karmatype": "Bad"
 	}
 	],
-	"total": 64
+	"total": 55
 }
