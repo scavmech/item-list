@@ -452,7 +452,7 @@
 	},
 	{
 		"abr": "bearchickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_BearChickenEggFertilized"
 	},
@@ -704,7 +704,7 @@
 	},
 	{
 		"abr": "boomachickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_BoomachickenEggFertilized"
 	},
@@ -980,7 +980,7 @@
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": 32,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
@@ -1052,7 +1052,7 @@
 	},
 	{
 		"abr": "catchickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_CatchickenEggFertilized"
 	},
@@ -1208,7 +1208,7 @@
 	},
 	{
 		"abr": "chickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
 	},
@@ -1262,7 +1262,7 @@
 	},
 	{
 		"abr": "chickenbearegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_ChickenbearEggFertilized"
 	},
@@ -1280,7 +1280,7 @@
 	},
 	{
 		"abr": "chickencategg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_ChickencatEggFertilized"
 	},
@@ -1298,7 +1298,7 @@
 	},
 	{
 		"abr": "chickenffaloegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_ChickenffaloEggFertilized"
 	},
@@ -1328,7 +1328,7 @@
 	},
 	{
 		"abr": "chickenlizardegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_ChickenlizardEggFertilized"
 	},
@@ -1346,7 +1346,7 @@
 	},
 	{
 		"abr": "chickenlopeegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_ChickenlopeEggFertilized"
 	},
@@ -1364,7 +1364,7 @@
 	},
 	{
 		"abr": "chickenrabbitegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_ChickenrabbitEggFertilized"
 	},
@@ -1382,7 +1382,7 @@
 	},
 	{
 		"abr": "chickenspideregg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_ChickenspiderEggFertilized"
 	},
@@ -1406,7 +1406,7 @@
 	},
 	{
 		"abr": "chickenwolfegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_ChickenwolfEggFertilized"
 	},
@@ -1484,7 +1484,7 @@
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
@@ -1970,7 +1970,7 @@
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": 30,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
@@ -2036,7 +2036,7 @@
 	},
 	{
 		"abr": "fertilitytotem",
-		"price": 1,
+		"price": 1000,
 		"category": "Buildings",
 		"defname": "Cults_FertilityTotem"
 	},
@@ -2756,7 +2756,7 @@
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": 42,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
@@ -3584,7 +3584,7 @@
 	},
 	{
 		"abr": "muffalochickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_MuffalochickenEggFertilized"
 	},
@@ -3776,7 +3776,7 @@
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
@@ -3872,7 +3872,7 @@
 	},
 	{
 		"abr": "paragonchickenegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_AlphaChickenEggFertilized"
 	},
@@ -3902,7 +3902,7 @@
 	},
 	{
 		"abr": "paragonemuegg(fert.)",
-		"price": 25,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_AlphaEmuEggFertilized"
 	},
@@ -3920,7 +3920,7 @@
 	},
 	{
 		"abr": "paragonhare",
-		"price": 200,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_AlphaHare"
 	},
@@ -3938,7 +3938,7 @@
 	},
 	{
 		"abr": "paragoniguanaegg(fert.)",
-		"price": 60,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_AlphaIguanaEggFertilized"
 	},
@@ -3956,7 +3956,7 @@
 	},
 	{
 		"abr": "paragonmuffalo",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_AlphaMuffalo"
 	},
@@ -3974,7 +3974,7 @@
 	},
 	{
 		"abr": "paragonostrichegg(fert.)",
-		"price": 33,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_AlphaOstrichEggFertilized"
 	},
@@ -4046,7 +4046,7 @@
 	},
 	{
 		"abr": "paragontortoiseegg(fert.)",
-		"price": 60,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_AlphaTortoiseEggFertilized"
 	},
@@ -4634,7 +4634,7 @@
 	},
 	{
 		"abr": "sleeptotem",
-		"price": 1,
+		"price": 1000,
 		"category": "Buildings",
 		"defname": "Cults_SleepTotem"
 	},
@@ -4736,7 +4736,7 @@
 	},
 	{
 		"abr": "spidersnakeegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_SpidersnakeEggFertilized"
 	},
@@ -5060,7 +5060,7 @@
 	},
 	{
 		"abr": "thrumbochickenegg(fert.)",
-		"price": 42,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_ThrumbochickenEggFertilized"
 	},
@@ -5162,7 +5162,7 @@
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
@@ -5228,7 +5228,7 @@
 	},
 	{
 		"abr": "turkeyegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
@@ -5444,7 +5444,7 @@
 	},
 	{
 		"abr": "wolfchickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_WolfchickenEggFertilized"
 	},
