@@ -296,13 +296,13 @@
 	},
 	{
 		"abr": "antigrainwarhead",
-		"price": 2000,
+		"price": -10,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "ArchotechArm"
 	},
@@ -320,13 +320,13 @@
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "ArchotechLeg"
 	},
@@ -416,7 +416,7 @@
 	},
 	{
 		"abr": "bearparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_BearSerum"
 	},
@@ -638,7 +638,7 @@
 	},
 	{
 		"abr": "boarparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_BoarSerum"
 	},
@@ -842,7 +842,7 @@
 	},
 	{
 		"abr": "boomalopeparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_BoomalopeSerum"
 	},
@@ -1250,7 +1250,7 @@
 	},
 	{
 		"abr": "chickenparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_ChickenSerum"
 	},
@@ -1562,7 +1562,7 @@
 	},
 	{
 		"abr": "cthulhidtentacle",
-		"price": 667,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "Cults_CthulhidTentacle"
 	},
@@ -1724,7 +1724,7 @@
 	},
 	{
 		"abr": "detonatingunstableegg",
-		"price": 75,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "GR_EggBomb"
 	},
@@ -1928,7 +1928,7 @@
 	},
 	{
 		"abr": "elixerofpower",
-		"price": 833,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "Cults_ElixerOfPower"
 	},
@@ -1982,7 +1982,7 @@
 	},
 	{
 		"abr": "emuparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_EmuSerum"
 	},
@@ -2036,7 +2036,7 @@
 	},
 	{
 		"abr": "fertilitytotem",
-		"price": 1000,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "Cults_FertilityTotem"
 	},
@@ -2312,7 +2312,7 @@
 	},
 	{
 		"abr": "hareparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_HareSerum"
 	},
@@ -2378,7 +2378,7 @@
 	},
 	{
 		"abr": "horrifyingeyestalk",
-		"price": 667,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "Cults_CthulhidEyestalk"
 	},
@@ -2720,7 +2720,7 @@
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
-		"price": 2008,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
@@ -2768,7 +2768,7 @@
 	},
 	{
 		"abr": "iguanaparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_IguanaSerum"
 	},
@@ -3392,13 +3392,13 @@
 	},
 	{
 		"abr": "monstrousbody",
-		"price": 833,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "Cults_MonstrousBody"
 	},
 	{
 		"abr": "monstrousbrain",
-		"price": 833,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "Cults_MonstrousBrain"
 	},
@@ -3536,7 +3536,7 @@
 	},
 	{
 		"abr": "muffaloparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_MuffaloSerum"
 	},
@@ -3782,7 +3782,7 @@
 	},
 	{
 		"abr": "ostrichparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_OstrichSerum"
 	},
@@ -4112,7 +4112,7 @@
 	},
 	{
 		"abr": "pigparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_PigSerum"
 	},
@@ -4244,7 +4244,7 @@
 	},
 	{
 		"abr": "psioniclobe",
-		"price": 2500,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "Cults_PsionicBrain"
 	},
@@ -4358,7 +4358,7 @@
 	},
 	{
 		"abr": "ratparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_RatSerum"
 	},
@@ -4472,7 +4472,7 @@
 	},
 	{
 		"abr": "rhinoparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_RhinoSerum"
 	},
@@ -4634,7 +4634,7 @@
 	},
 	{
 		"abr": "sleeptotem",
-		"price": 1000,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "Cults_SleepTotem"
 	},
@@ -4952,13 +4952,13 @@
 	},
 	{
 		"abr": "tentacle",
-		"price": 67,
+		"price": -10,
 		"category": "Artificial",
 		"defname": "Cults_TentacleArm"
 	},
 	{
 		"abr": "thekinginyellow",
-		"price": 33,
+		"price": -10,
 		"category": "Items",
 		"defname": "Cults_TheKingInYellow"
 	},
@@ -5174,7 +5174,7 @@
 	},
 	{
 		"abr": "tortoiseparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_TortoiseSerum"
 	},
@@ -5390,7 +5390,7 @@
 	},
 	{
 		"abr": "wolfparagonserum",
-		"price": 17,
+		"price": -10,
 		"category": "Paragon serums",
 		"defname": "GR_WolfSerum"
 	},
