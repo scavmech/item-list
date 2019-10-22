@@ -818,7 +818,7 @@
 	},
 	{
 		"abr": "gold",
-		"price": -10,
+		"price": 17,
 		"category": "Raw resources",
 		"defname": "Gold"
 	},
@@ -1478,7 +1478,7 @@
 	},
 	{
 		"abr": "plasteel",
-		"price": -10,
+		"price": 15,
 		"category": "Raw resources",
 		"defname": "Plasteel"
 	},
@@ -1706,7 +1706,7 @@
 	},
 	{
 		"abr": "silver",
-		"price": -10,
+		"price": 2,
 		"category": "Raw resources",
 		"defname": "Silver"
 	},
@@ -1826,7 +1826,7 @@
 	},
 	{
 		"abr": "steel",
-		"price": -10,
+		"price": 3,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
@@ -2006,7 +2006,7 @@
 	},
 	{
 		"abr": "uranium",
-		"price": -10,
+		"price": 10,
 		"category": "Raw resources",
 		"defname": "Uranium"
 	},
