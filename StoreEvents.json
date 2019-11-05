@@ -151,6 +151,21 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "herdmigration",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "farmanimals",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rarethrumbos",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "shipchunkdrop",
 		"price": 300,
 		"karmatype": "Good"
@@ -174,6 +189,11 @@
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "alphabeavers",
+		"price": 600,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
@@ -301,5 +321,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 60
+	"total": 64
 }
