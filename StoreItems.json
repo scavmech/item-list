@@ -50,7 +50,7 @@
 	},
 	{
 		"abr": "alpacamorph",
-		"price": 1750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AlpacaMorphRace_Implied"
 	},
@@ -164,7 +164,7 @@
 	},
 	{
 		"abr": "bearmorph",
-		"price": 2042,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BearMorphRace_Implied"
 	},
@@ -350,7 +350,7 @@
 	},
 	{
 		"abr": "boarmorph",
-		"price": 1625,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BoarMorphRace_Implied"
 	},
@@ -374,7 +374,7 @@
 	},
 	{
 		"abr": "boomamorph",
-		"price": 1750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BoomalopeMorphRace_Implied"
 	},
@@ -476,7 +476,7 @@
 	},
 	{
 		"abr": "catmorph",
-		"price": 1542,
+		"price": -10,
 		"category": "Animal",
 		"defname": "CatMorphRace_Implied"
 	},
@@ -626,7 +626,7 @@
 	},
 	{
 		"abr": "chookmorph",
-		"price": 1500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ChookMorphRace_Implied"
 	},
@@ -710,7 +710,7 @@
 	},
 	{
 		"abr": "cowmorph",
-		"price": 1708,
+		"price": -10,
 		"category": "Animal",
 		"defname": "CowMorphRace_Implied"
 	},
@@ -734,7 +734,7 @@
 	},
 	{
 		"abr": "deermorph",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "DeerMorphRace_Implied"
 	},
@@ -854,7 +854,7 @@
 	},
 	{
 		"abr": "elephantmorph",
-		"price": 1958,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ElephantMorphRace_Implied"
 	},
@@ -974,7 +974,7 @@
 	},
 	{
 		"abr": "foxmorph",
-		"price": 1625,
+		"price": -10,
 		"category": "Animal",
 		"defname": "FoxMorphRace_Implied"
 	},
@@ -1172,7 +1172,7 @@
 	},
 	{
 		"abr": "horsemorph",
-		"price": 1792,
+		"price": -10,
 		"category": "Animal",
 		"defname": "HorseMorphRace_Implied"
 	},
@@ -1190,7 +1190,7 @@
 	},
 	{
 		"abr": "human",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Human"
 	},
@@ -1220,7 +1220,7 @@
 	},
 	{
 		"abr": "huskymorph",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "HuskyMorphRace_Implied"
 	},
@@ -1298,7 +1298,7 @@
 	},
 	{
 		"abr": "iguanamorph",
-		"price": 1542,
+		"price": -10,
 		"category": "Animal",
 		"defname": "IguanaMorphRace_Implied"
 	},
@@ -1514,7 +1514,7 @@
 	},
 	{
 		"abr": "megamorph",
-		"price": 2042,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MegaslothMorphRace_Implied"
 	},
@@ -1592,7 +1592,7 @@
 	},
 	{
 		"abr": "monkeymorph",
-		"price": 1542,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MonkeyMorphRace_Implied"
 	},
@@ -1976,7 +1976,7 @@
 	},
 	{
 		"abr": "pigmorph",
-		"price": 1625,
+		"price": -10,
 		"category": "Animal",
 		"defname": "PigMorphRace_Implied"
 	},
@@ -2156,7 +2156,7 @@
 	},
 	{
 		"abr": "ratmorph",
-		"price": 1483,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RatMorphRace_Implied"
 	},
@@ -2348,7 +2348,7 @@
 	},
 	{
 		"abr": "snakemorph",
-		"price": 1583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "SnakeMorphRace_Implied"
 	},
@@ -2516,7 +2516,7 @@
 	},
 	{
 		"abr": "thrumbomorph",
-		"price": 4792,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ThrumboMorphRace_Implied"
 	},
@@ -2666,7 +2666,7 @@
 	},
 	{
 		"abr": "wargmorph",
-		"price": 1833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WargMorphRace_Implied"
 	},
@@ -2690,7 +2690,7 @@
 	},
 	{
 		"abr": "wolfmorph",
-		"price": 1750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WolfMorphRace_Implied"
 	},
