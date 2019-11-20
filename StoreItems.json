@@ -2297,7 +2297,73 @@
 		"price": 417,
 		"category": "Headgear",
 		"defname": "Apparel_ScavWeldingHelmet"
+	},
+	{
+		"abr": "adaptivesuit",
+		"price": 3333,
+		"category": "Apparel",
+		"defname": "Apparel_CEOsuit"
+	},
+	{
+		"abr": "atlascombatshotgun",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasCombatShotgun"
+	},
+	{
+		"abr": "atlasmachinepistol",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasMachinePistol"
+	},
+	{
+		"abr": "atlaspistol",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasPistol"
+	},
+	{
+		"abr": "atlaspulserifle",
+		"price": 1683,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasRifle"
+	},
+	{
+		"abr": "crimsonlancearmor",
+		"price": 2000,
+		"category": "Apparel",
+		"defname": "Apparel_CrimsonLanceArmor"
+	},
+	{
+		"abr": "crimsonlancehelmet",
+		"price": 1250,
+		"category": "Headgear",
+		"defname": "Apparel_CrimsonLanceHelmet"
+	},
+	{
+		"abr": "hyperionpistol",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_HyperionPistol"
+	},
+	{
+		"abr": "rakk",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Rakk"
+	},
+	{
+		"abr": "rakkegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "EggRakkFertilized"
+	},
+	{
+		"abr": "spiderant",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Spiderant"
 	}
 	],
-	"total": 487
+	"total": 498
 }
