@@ -2363,7 +2363,19 @@
 		"price": 833,
 		"category": "Animal",
 		"defname": "Spiderant"
+	},
+	{
+		"abr": "atlassniperrifle",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "Gun_AtlasSniperRifle"
+	},
+	{
+		"abr": "crimsonlancelightarmor",
+		"price": 1667,
+		"category": "Apparel",
+		"defname": "Apparel_CrimsonLanceLightArmor"
 	}
 	],
-	"total": 498
+	"total": 500
 }
