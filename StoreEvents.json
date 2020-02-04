@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -19,11 +9,6 @@
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "foggyrain",
@@ -106,11 +91,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
@@ -118,11 +98,6 @@
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -168,7 +143,7 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "wildman",
@@ -188,12 +163,12 @@
 	{
 		"abr": "travelergroup",
 		"price": 80,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "visitorgroup",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "skillincrease",
@@ -281,8 +256,23 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "pawn",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "trait",
+		"price": 3500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removetrait",
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -291,14 +281,9 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "visitcolony",
 		"price": 300,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "berescued",
@@ -321,5 +306,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 64
+	"total": 61
 }
