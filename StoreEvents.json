@@ -281,16 +281,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "trait",
-		"price": 3500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removetrait",
-		"price": 5500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
@@ -361,5 +351,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 72
+	"total": 70
 }
