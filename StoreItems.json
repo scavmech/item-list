@@ -295,12 +295,6 @@
 		"defname": "Apparel_CollarShirt"
 	},
 	{
-		"abr": "camelhair",
-		"price": 4,
-		"category": "Textiles",
-		"defname": "WoolCamel"
-	},
-	{
 		"abr": "camelhide",
 		"price": 4,
 		"category": "Leathers",
@@ -2083,528 +2077,6 @@
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
-		"abr": "air-conindoorunit",
-		"price": 82,
-		"category": "Hygiene",
-		"defname": "AirconIndoorUnit"
-	},
-	{
-		"abr": "air-conoutdoorunit",
-		"price": 458,
-		"category": "Hygiene",
-		"defname": "AirConOutdoorUnit"
-	},
-	{
-		"abr": "alc",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ALC"
-	},
-	{
-		"abr": "atom",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ATOM"
-	},
-	{
-		"abr": "autoclave",
-		"price": 1108,
-		"category": "Oil",
-		"defname": "Autoclave"
-	},
-	{
-		"abr": "basin",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "BasinStuff"
-	},
-	{
-		"abr": "bathtub",
-		"price": 124,
-		"category": "Hygiene",
-		"defname": "BathtubStuff"
-	},
-	{
-		"abr": "beamsplitter",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "BeamSplitter"
-	},
-	{
-		"abr": "biosolids",
-		"price": 0,
-		"category": "Waste",
-		"defname": "Biosolids"
-	},
-	{
-		"abr": "biosolidscomposter",
-		"price": 146,
-		"category": "Hygiene",
-		"defname": "BiosolidsComposter"
-	},
-	{
-		"abr": "ceilingfan1x1",
-		"price": 184,
-		"category": "Hygiene",
-		"defname": "CeilingFanS"
-	},
-	{
-		"abr": "ceilingfan2x2",
-		"price": 184,
-		"category": "Hygiene",
-		"defname": "CeilingFan"
-	},
-	{
-		"abr": "chemfuelpowerplant",
-		"price": 1558,
-		"category": "Oil",
-		"defname": "FuelPowerplant"
-	},
-	{
-		"abr": "chemfuelpump",
-		"price": 49,
-		"category": "Oil",
-		"defname": "ChemfuelHopper"
-	},
-	{
-		"abr": "chemfuelsiphon",
-		"price": 49,
-		"category": "Oil",
-		"defname": "ChemfuelSiphon"
-	},
-	{
-		"abr": "controlrodactuator",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ControlRodActuator"
-	},
-	{
-		"abr": "depleteduranium",
-		"price": 13,
-		"category": "Rimatomics Product",
-		"defname": "DepletedUraniumPellets"
-	},
-	{
-		"abr": "driveactuator",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "DriveActuator"
-	},
-	{
-		"abr": "dusabotround",
-		"price": 83,
-		"category": "Sabot Rounds",
-		"defname": "RailgunSabotDU"
-	},
-	{
-		"abr": "electricboiler",
-		"price": 425,
-		"category": "Hygiene",
-		"defname": "ElectricBoiler"
-	},
-	{
-		"abr": "electricpump",
-		"price": 316,
-		"category": "Hygiene",
-		"defname": "ElectricPump"
-	},
-	{
-		"abr": "ers",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ERS"
-	},
-	{
-		"abr": "firesprinkler",
-		"price": 104,
-		"category": "Hygiene",
-		"defname": "FireSprinkler"
-	},
-	{
-		"abr": "fountain",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "Fountain"
-	},
-	{
-		"abr": "fuelrods",
-		"price": 1667,
-		"category": "Nuclear fuel",
-		"defname": "FuelRods"
-	},
-	{
-		"abr": "fuelrodsmox",
-		"price": 3333,
-		"category": "Nuclear fuel",
-		"defname": "FuelRodsMOX"
-	},
-	{
-		"abr": "gasboiler",
-		"price": 425,
-		"category": "Hygiene",
-		"defname": "GasBoiler"
-	},
-	{
-		"abr": "glasspane",
-		"price": 22,
-		"category": "Manufactured",
-		"defname": "GlassPane"
-	},
-	{
-		"abr": "glitterworldmedkit",
-		"price": 2500,
-		"category": "Apparel",
-		"defname": "UltraMedKit"
-	},
-	{
-		"abr": "hottub",
-		"price": 800,
-		"category": "Hygiene",
-		"defname": "HotTub"
-	},
-	{
-		"abr": "hotwatertank",
-		"price": 245,
-		"category": "Hygiene",
-		"defname": "HotWaterTank"
-	},
-	{
-		"abr": "hyperweaverefiner",
-		"price": 2075,
-		"category": "Oil",
-		"defname": "HyperweaveRefiner"
-	},
-	{
-		"abr": "irrigationsprinkler",
-		"price": 102,
-		"category": "Hygiene",
-		"defname": "IrrigationSprinkler"
-	},
-	{
-		"abr": "kitchensink",
-		"price": 167,
-		"category": "Hygiene",
-		"defname": "KitchenSink"
-	},
-	{
-		"abr": "largeradiator",
-		"price": 252,
-		"category": "Hygiene",
-		"defname": "RadiatorLarge"
-	},
-	{
-		"abr": "latrine",
-		"price": 55,
-		"category": "Hygiene",
-		"defname": "PitLatrine"
-	},
-	{
-		"abr": "lensmodule",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "LenseModule"
-	},
-	{
-		"abr": "litterbox",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "LitterBox"
-	},
-	{
-		"abr": "logboiler",
-		"price": 642,
-		"category": "Hygiene",
-		"defname": "LogBoiler"
-	},
-	{
-		"abr": "medicinebag",
-		"price": 233,
-		"category": "Apparel",
-		"defname": "MedicineBag"
-	},
-	{
-		"abr": "medkit",
-		"price": 333,
-		"category": "Apparel",
-		"defname": "MedicalKit"
-	},
-	{
-		"abr": "meps",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "MEPS"
-	},
-	{
-		"abr": "missilefuselage",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "MissileFuselage"
-	},
-	{
-		"abr": "moppmask(desert)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskDesert"
-	},
-	{
-		"abr": "moppmask(snow)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskSnow"
-	},
-	{
-		"abr": "moppmask(woodland)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskWoodland"
-	},
-	{
-		"abr": "moppsuit(desert)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitDesert"
-	},
-	{
-		"abr": "moppsuit(snow)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitSnow"
-	},
-	{
-		"abr": "moppsuit(woodland)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitWoodland"
-	},
-	{
-		"abr": "napalmbomb",
-		"price": 383,
-		"category": "Oil",
-		"defname": "NapalmBomb"
-	},
-	{
-		"abr": "napalmrefiner",
-		"price": 758,
-		"category": "Oil",
-		"defname": "NapalmRefiner"
-	},
-	{
-		"abr": "napalmshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "Shell_Napalm"
-	},
-	{
-		"abr": "neutroaminerefiner",
-		"price": 1583,
-		"category": "Oil",
-		"defname": "NeutroamineRefiner"
-	},
-	{
-		"abr": "nuclearwarhead",
-		"price": 24000,
-		"category": "Rimatomics Product",
-		"defname": "FissionWarhead"
-	},
-	{
-		"abr": "pipelinevalve",
-		"price": 50,
-		"category": "Oil",
-		"defname": "pipelineValve"
-	},
-	{
-		"abr": "plumbingvalve",
-		"price": 50,
-		"category": "Hygiene",
-		"defname": "plumbingValve"
-	},
-	{
-		"abr": "plutonium",
-		"price": 100,
-		"category": "Rimatomics Product",
-		"defname": "Plutonium"
-	},
-	{
-		"abr": "potassiumiodide",
-		"price": 53,
-		"category": "Drugs",
-		"defname": "PotassiumIodide"
-	},
-	{
-		"abr": "powershower",
-		"price": 170,
-		"category": "Hygiene",
-		"defname": "ShowerAdvStuff"
-	},
-	{
-		"abr": "r.t.g",
-		"price": 4333,
-		"category": "Nuclear",
-		"defname": "RimatomicsRTG"
-	},
-	{
-		"abr": "radiationmask",
-		"price": 244,
-		"category": "Hazmat",
-		"defname": "Apparel_RadiationMask"
-	},
-	{
-		"abr": "radiationsuit",
-		"price": 383,
-		"category": "Hazmat",
-		"defname": "Apparel_RadiationSuit"
-	},
-	{
-		"abr": "radiator",
-		"price": 85,
-		"category": "Hygiene",
-		"defname": "RadiatorStuffed"
-	},
-	{
-		"abr": "refineryunloadingbay",
-		"price": 49,
-		"category": "Oil",
-		"defname": "RefineryLoadingBay"
-	},
-	{
-		"abr": "repairkit",
-		"price": 250,
-		"category": "Apparel",
-		"defname": "DubsRepairKit"
-	},
-	{
-		"abr": "resourceconsole",
-		"price": 642,
-		"category": "Oil",
-		"defname": "ResourceConsole"
-	},
-	{
-		"abr": "rocketengine",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "RocketEngine"
-	},
-	{
-		"abr": "sabotround",
-		"price": 17,
-		"category": "Sabot Rounds",
-		"defname": "RailgunSabot"
-	},
-	{
-		"abr": "salvagedcomponent",
-		"price": 35,
-		"category": "Manufactured",
-		"defname": "SalvagedComponent"
-	},
-	{
-		"abr": "scad",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "SCAD"
-	},
-	{
-		"abr": "shower",
-		"price": 90,
-		"category": "Hygiene",
-		"defname": "ShowerStuff"
-	},
-	{
-		"abr": "simpleshower",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "ShowerSimple"
-	},
-	{
-		"abr": "smarttoilet",
-		"price": 182,
-		"category": "Hygiene",
-		"defname": "ToiletAdvStuff"
-	},
-	{
-		"abr": "synthamiderefiner",
-		"price": 1167,
-		"category": "Oil",
-		"defname": "SynthamideRefiner"
-	},
-	{
-		"abr": "synthreadrefiner",
-		"price": 808,
-		"category": "Oil",
-		"defname": "SynthreadRefiner"
-	},
-	{
-		"abr": "synthylenerefiner",
-		"price": 758,
-		"category": "Oil",
-		"defname": "SynthyleneRefiner"
-	},
-	{
-		"abr": "targetingchip",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "TargetingChip"
-	},
-	{
-		"abr": "thermostat",
-		"price": 86,
-		"category": "Hygiene",
-		"defname": "Thermostat"
-	},
-	{
-		"abr": "toilet",
-		"price": 72,
-		"category": "Hygiene",
-		"defname": "ToiletStuff"
-	},
-	{
-		"abr": "turbineblades",
-		"price": 2,
-		"category": "Rimatomics Product",
-		"defname": "turbineBlade"
-	},
-	{
-		"abr": "uncuredplasteel",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "UncuredPlasteel"
-	},
-	{
-		"abr": "uncuredsynthamidecomposite",
-		"price": 3,
-		"category": "Synthamide",
-		"defname": "UncuredComposite"
-	},
-	{
-		"abr": "uraniumpellets",
-		"price": 3,
-		"category": "Rimatomics Product",
-		"defname": "UraniumPellets"
-	},
-	{
-		"abr": "walk-infreezerunit",
-		"price": 153,
-		"category": "Hygiene",
-		"defname": "FreezerUnit"
-	},
-	{
-		"abr": "washingmachine",
-		"price": 433,
-		"category": "Hygiene",
-		"defname": "WashingMachine"
-	},
-	{
-		"abr": "waterbutt",
-		"price": 89,
-		"category": "Furniture",
-		"defname": "WaterButt"
-	},
-	{
-		"abr": "watertub",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "WashBucket"
-	},
-	{
 		"abr": "aestheticnose",
 		"price": 975,
 		"category": "Bionic",
@@ -2882,13 +2354,13 @@
 	},
 	{
 		"abr": "infernocannon",
-		"price": 2333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannon"
 	},
 	{
 		"abr": "infernocannon",
-		"price": 2333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannonTurret"
 	},
@@ -3403,17 +2875,419 @@
 		"defname": "Meat_Yak"
 	},
 	{
-		"abr": "yakwool",
-		"price": 4,
-		"category": "Textiles",
-		"defname": "WoolYak"
-	},
-	{
 		"abr": "zeushammer",
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
-	}
+	},
+	{
+		"abr": "unstablepowercell",
+		"price": 107,
+		"category": "Special",
+		"defname": "UnstablePowerCell"
+	},
+	{
+		"abr": "aimanager",
+		"price": 7833,
+		"category": "Production",
+		"defname": "FM_AIManager"
+	},
+	{
+		"abr": "akouoshield",
+		"price": 333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Akouo_Shield"
+	},
+	{
+		"abr": "anesidora",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Anesidora_Camera"
+	},
+	{
+		"abr": "anesidora",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Anesidora_Box"
+	},
+	{
+		"abr": "antiquity'sroast",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Antiquity_Thermos"
+	},
+	{
+		"abr": "antiquity'sroast",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Antiquity_Torch"
+	},
+	{
+		"abr": "basicmanagerdesk",
+		"price": 262,
+		"category": "Production",
+		"defname": "FM_BasicManagerStation"
+	},
+	{
+		"abr": "blowhard",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Blowhard_Shotgun"
+	},
+	{
+		"abr": "blowhard",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Blowhard_Axe"
+	},
+	{
+		"abr": "blush",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Blush"
+	},
+	{
+		"abr": "crescentrose",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Crescent_Rose_Rifle"
+	},
+	{
+		"abr": "crescentrose",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Crescent_Rose_Scythe"
+	},
+	{
+		"abr": "croceamors",
+		"price": 1000,
+		"category": "Dust weapons",
+		"defname": "RWBY_Crocea_Mors_Sword"
+	},
+	{
+		"abr": "croceamors",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Crocea_Mors_Twohander"
+	},
+	{
+		"abr": "croceamorsshield",
+		"price": 333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Crocea_Mors_Shield"
+	},
+	{
+		"abr": "dustworkshop",
+		"price": 758,
+		"category": "Production",
+		"defname": "TableDustWorkshop"
+	},
+	{
+		"abr": "embercelica",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Ember_Celica_Gun"
+	},
+	{
+		"abr": "embercelica(meleeonly)",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Ember_Celica_Melee"
+	},
+	{
+		"abr": "firedustcrystal",
+		"price": 2,
+		"category": "Dust crystals",
+		"defname": "FireDustCrystal"
+	},
+	{
+		"abr": "fulcrum",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Fulcrum"
+	},
+	{
+		"abr": "gambolshroud",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Gambol_Shroud_Cleaver"
+	},
+	{
+		"abr": "gambolshroud",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Gambol_Shroud_Katana"
+	},
+	{
+		"abr": "gambolshroud",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Gambol_Shroud_Gun"
+	},
+	{
+		"abr": "gianduja",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Gianduja_Handbag"
+	},
+	{
+		"abr": "gianduja",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Gianduja_Gun"
+	},
+	{
+		"abr": "gravitydustcrystal",
+		"price": 2,
+		"category": "Dust crystals",
+		"defname": "GravityDustCrystal"
+	},
+	{
+		"abr": "grimmglove",
+		"price": 1667,
+		"category": "Dust weapons",
+		"defname": "RWBY_Grimm_Glove"
+	},
+	{
+		"abr": "harbinger",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Harbinger_Sword"
+	},
+	{
+		"abr": "harbinger",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Harbinger_Scythe"
+	},
+	{
+		"abr": "harbinger",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Harbinger_Shotgun"
+	},
+	{
+		"abr": "hard-lightdustcrystal",
+		"price": 2,
+		"category": "Dust crystals",
+		"defname": "HardLightDustCrystal"
+	},
+	{
+		"abr": "hush",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Hush_Umbrella_Open"
+	},
+	{
+		"abr": "hush",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Hush_Umbrella_Closed"
+	},
+	{
+		"abr": "hush",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Hush_Umbrella_Blade"
+	},
+	{
+		"abr": "icedustcrystal",
+		"price": 2,
+		"category": "Dust crystals",
+		"defname": "IceDustCrystal"
+	},
+	{
+		"abr": "lightningdustcrystal",
+		"price": 2,
+		"category": "Dust crystals",
+		"defname": "LightningDustCrystal"
+	},
+	{
+		"abr": "magnhild",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Magnhild_Gun"
+	},
+	{
+		"abr": "magnhild",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Magnhild_Melee"
+	},
+	{
+		"abr": "managerdesk",
+		"price": 508,
+		"category": "Production",
+		"defname": "FM_ManagerStation"
+	},
+	{
+		"abr": "melodiccudgel",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Melodic_Cudgel_Gun"
+	},
+	{
+		"abr": "melodiccudgel",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Melodic_Cudgel_Hook"
+	},
+	{
+		"abr": "midnight",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Midnight_Blades"
+	},
+	{
+		"abr": "midnight",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Midnight_Bow"
+	},
+	{
+		"abr": "milo",
+		"price": 1000,
+		"category": "Dust weapons",
+		"defname": "RWBY_Milo_Xiphos"
+	},
+	{
+		"abr": "milo",
+		"price": 1000,
+		"category": "Dust weapons",
+		"defname": "RWBY_Milo_Javelin"
+	},
+	{
+		"abr": "milo",
+		"price": 1000,
+		"category": "Dust weapons",
+		"defname": "RWBY_Milo_Rifle"
+	},
+	{
+		"abr": "myrtenaster",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Myrtenaster_Melee"
+	},
+	{
+		"abr": "omen",
+		"price": 833,
+		"category": "Dust weapons",
+		"defname": "RWBY_Omen"
+	},
+	{
+		"abr": "omen",
+		"price": 833,
+		"category": "Dust weapons",
+		"defname": "RWBY_Omen_Fire"
+	},
+	{
+		"abr": "omen",
+		"price": 833,
+		"category": "Dust weapons",
+		"defname": "RWBY_Omen_Ice"
+	},
+	{
+		"abr": "omen",
+		"price": 833,
+		"category": "Dust weapons",
+		"defname": "RWBY_Omen_Lightning"
+	},
+	{
+		"abr": "omen'sscabbard",
+		"price": 500,
+		"category": "Dust weapons",
+		"defname": "RWBY_Omen_Scabbard"
+	},
+	{
+		"abr": "powderedfiredust",
+		"price": 1,
+		"category": "Dust powder",
+		"defname": "FireDustPowder"
+	},
+	{
+		"abr": "powderedgravitydust",
+		"price": 1,
+		"category": "Dust powder",
+		"defname": "GravityDustPowder"
+	},
+	{
+		"abr": "powderedhard-lightdust",
+		"price": 1,
+		"category": "Dust powder",
+		"defname": "HardLightDustPowder"
+	},
+	{
+		"abr": "powderedicedust",
+		"price": 1,
+		"category": "Dust powder",
+		"defname": "IceDustPowder"
+	},
+	{
+		"abr": "powderedlightningdust",
+		"price": 1,
+		"category": "Dust powder",
+		"defname": "LightningDustPowder"
+	},
+	{
+		"abr": "pumpkinpete'shoodie",
+		"price": 275,
+		"category": "Apparel",
+		"defname": "Apparel_PumpkinPetes"
+	},
+	{
+		"abr": "pumpkinpete'smarshmallowflakes",
+		"price": 40,
+		"category": "Meals",
+		"defname": "RWBY_PumpkinPetes"
+	},
+	{
+		"abr": "sharpretribution",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_SharpRetribution_Gun"
+	},
+	{
+		"abr": "stormflower",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_StormFlower_Gun"
+	},
+	{
+		"abr": "thief'srespite",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_ThiefsRespite_Gun"
+	},
+	{
+		"abr": "thief'srespite",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_ThiefsRespite_Sickle"
+	},
+	{
+		"abr": "tradereportslog",
+		"price": 321,
+		"category": "Misc",
+		"defname": "ASReportsLog"
+	},
+	{
+		"abr": "tradereportsprinter",
+		"price": 317,
+		"category": "Misc",
+		"defname": "ASReportsPrinter"
+	},
+	{
+		"abr": "wilt",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Wilt"
+	},
+	{
+		"abr": "wiltandblush",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_Wilt_and_Blush"
+	},
 	],
-	"total": 597
+	"total": 769
 }
