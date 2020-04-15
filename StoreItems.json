@@ -50,7 +50,7 @@
 	},
 	{
 		"abr": "aimanager",
-		"price": 7833,
+		"price": -10,
 		"category": "Production",
 		"defname": "FM_AIManager"
 	},
@@ -152,55 +152,55 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechfinger",
-		"price": 633,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechFinger"
 	},
 	{
 		"abr": "archotechfoot",
-		"price": 2667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechFoot"
 	},
 	{
 		"abr": "archotechforearm",
-		"price": 1183,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechForearm"
 	},
 	{
 		"abr": "archotechhand",
-		"price": 3333,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechHand"
 	},
 	{
 		"abr": "archotechinternalsupport",
-		"price": 667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechInternalSupport"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
 	{
 		"abr": "archotechtoe",
-		"price": 500,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechToe"
 	},
@@ -1724,7 +1724,7 @@
 	},
 	{
 		"abr": "glowpod",
-		"price": 83,
+		"price": -10,
 		"category": "Special",
 		"defname": "GlowPod"
 	},
@@ -2192,7 +2192,7 @@
 	},
 	{
 		"abr": "infinitechemreactor",
-		"price": 2500,
+		"price": -10,
 		"category": "Special",
 		"defname": "InfiniteChemreactor"
 	},
@@ -2378,7 +2378,7 @@
 	},
 	{
 		"abr": "kurin",
-		"price": 4133,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kurin"
 	},
@@ -3080,19 +3080,19 @@
 	},
 	{
 		"abr": "marro",
-		"price": 3000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Marro_Warrior"
 	},
 	{
 		"abr": "marrodrone",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Marro_Drone"
 	},
 	{
 		"abr": "marrohivelord",
-		"price": 3000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Marro_Hivelord"
 	},
@@ -3104,7 +3104,7 @@
 	},
 	{
 		"abr": "marrooverlord",
-		"price": 3000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Marro_Overlord"
 	},
@@ -3398,73 +3398,73 @@
 	},
 	{
 		"abr": "neurotrainer(animals)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "neurotrainer(artistic)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "neurotrainer(construction)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "neurotrainer(cooking)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "neurotrainer(crafting)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "neurotrainer(intellectual)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "neurotrainer(medical)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "neurotrainer(melee)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "neurotrainer(mining)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "neurotrainer(plants)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "neurotrainer(shooting)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "neurotrainer(social)",
-		"price": 1250,
+		"price": -10,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Social"
 	},
@@ -3542,19 +3542,19 @@
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
 		"abr": "orbitalmechclustertargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterMechCluster"
 	},
 	{
 		"abr": "orbitalpowerbeamtargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
@@ -3662,7 +3662,7 @@
 	},
 	{
 		"abr": "personacore",
-		"price": 6667,
+		"price": -10,
 		"category": "Items",
 		"defname": "AIPersonaCore"
 	},
@@ -3902,19 +3902,19 @@
 	},
 	{
 		"abr": "psychicamplifier",
-		"price": 2000,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "PsychicAmplifier"
 	},
 	{
 		"abr": "psychicanimalpulser",
-		"price": 1167,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser"
 	},
 	{
 		"abr": "psychicemanator",
-		"price": 2167,
+		"price": -10,
 		"category": "Special",
 		"defname": "PsychicEmanator"
 	},
@@ -3926,43 +3926,43 @@
 	},
 	{
 		"abr": "psychicharmonizer",
-		"price": 1333,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "PsychicHarmonizer"
 	},
 	{
 		"abr": "psychicinsanitylance",
-		"price": 1083,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "PsychicInsanityLance"
 	},
 	{
 		"abr": "psychicreader",
-		"price": 1667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "PsychicReader"
 	},
 	{
 		"abr": "psychicsensitizer",
-		"price": 1667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "PsychicSensitizer"
 	},
 	{
 		"abr": "psychicshocklance",
-		"price": 917,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "PsychicShockLance"
 	},
 	{
 		"abr": "psychicsilencer",
-		"price": 2000,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "PsychicSilencer"
 	},
 	{
 		"abr": "psychicsoothepulser",
-		"price": 1000,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "PsychicSoothePulser"
 	},
@@ -4010,181 +4010,181 @@
 	},
 	{
 		"abr": "psytrainer(beckon)",
-		"price": 917,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Beckon"
 	},
 	{
 		"abr": "psytrainer(berserkpulse)",
-		"price": 1667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_BerserkPulse"
 	},
 	{
 		"abr": "psytrainer(berserk)",
-		"price": 1417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Berserk"
 	},
 	{
 		"abr": "psytrainer(blindingpulse)",
-		"price": 667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_BlindingPulse"
 	},
 	{
 		"abr": "psytrainer(burden)",
-		"price": 417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Burden"
 	},
 	{
 		"abr": "psytrainer(chaosskip)",
-		"price": 917,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_ChaosSkip"
 	},
 	{
 		"abr": "psytrainer(drill)",
-		"price": 1667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_DeepDrill"
 	},
 	{
 		"abr": "psytrainer(entropylink)",
-		"price": 667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_EntropyLink"
 	},
 	{
 		"abr": "psytrainer(firefoam)",
-		"price": 917,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_FireFoam"
 	},
 	{
 		"abr": "psytrainer(flash)",
-		"price": 917,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_Flash"
 	},
 	{
 		"abr": "psytrainer(focus)",
-		"price": 1167,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Focus"
 	},
 	{
 		"abr": "psytrainer(fragility)",
-		"price": 917,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_Fragile"
 	},
 	{
 		"abr": "psytrainer(giveentropy)",
-		"price": 1167,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_GiveEntropy"
 	},
 	{
 		"abr": "psytrainer(invisibility)",
-		"price": 1417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Invisibility"
 	},
 	{
 		"abr": "psytrainer(manhunterpulse)",
-		"price": 1667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_ManhunterPulse"
 	},
 	{
 		"abr": "psytrainer(masschaosskip)",
-		"price": 1667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_MassChaosSkip"
 	},
 	{
 		"abr": "psytrainer(painblock)",
-		"price": 417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Painblock"
 	},
 	{
 		"abr": "psytrainer(psychicexpanding)",
-		"price": 917,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_PsyExpanding"
 	},
 	{
 		"abr": "psytrainer(psychicshock)",
-		"price": 667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_PsychicShock"
 	},
 	{
 		"abr": "psytrainer(psychicsoothe)",
-		"price": 417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_PsychicSoothe"
 	},
 	{
 		"abr": "psytrainer(skip)",
-		"price": 1167,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Skip"
 	},
 	{
 		"abr": "psytrainer(smokepop)",
-		"price": 1167,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Smokepop"
 	},
 	{
 		"abr": "psytrainer(startfire)",
-		"price": 667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_StartFire"
 	},
 	{
 		"abr": "psytrainer(stopbleeding)",
-		"price": 667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_StopBleeding"
 	},
 	{
 		"abr": "psytrainer(stun)",
-		"price": 417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Stun"
 	},
 	{
 		"abr": "psytrainer(tendinjuries)",
-		"price": 917,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_TendInjuries"
 	},
 	{
 		"abr": "psytrainer(terrify)",
-		"price": 417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_PanicFlee"
 	},
 	{
 		"abr": "psytrainer(transferentropy)",
-		"price": 1417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Vanya_TransferEntropy"
 	},
 	{
 		"abr": "psytrainer(vertigopulse)",
-		"price": 917,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VertigoPulse"
 	},
 	{
 		"abr": "psytrainer(wallraise)",
-		"price": 1167,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Wallraise"
 	},
@@ -4880,7 +4880,7 @@
 	},
 	{
 		"abr": "synth",
-		"price": 8333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RRY_Synth"
 	},
@@ -4952,7 +4952,7 @@
 	},
 	{
 		"abr": "techprint(artificialmetabolism)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_ArtificialMetabolism"
 	},
@@ -5018,13 +5018,13 @@
 	},
 	{
 		"abr": "techprint(specializedlimbs)",
-		"price": 1667,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_SpecializedLimbs"
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": -10,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -5096,7 +5096,7 @@
 	},
 	{
 		"abr": "tornadogenerator",
-		"price": 1333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "TornadoGenerator"
 	},
@@ -5204,7 +5204,7 @@
 	},
 	{
 		"abr": "unstablepowercell",
-		"price": 667,
+		"price": -10,
 		"category": "Special",
 		"defname": "UnstablePowerCell"
 	},
@@ -5228,7 +5228,7 @@
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 2000,
+		"price": -10,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
@@ -5462,7 +5462,7 @@
 	},
 	{
 		"abr": "yautja",
-		"price": 5833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RRY_Alien_Yautja"
 	},
